@@ -23,6 +23,8 @@ GitHub:&nbsp;[caerdroia](https://github.com/caerdroia) <br><br><br>
 public class Main {
     public static void main(String[] args) {
 
+// Определение минимального делителя для целого положительного числа
+
         minDivisor(0);
     }
     static void minDivisor(long number) {
