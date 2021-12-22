@@ -58,7 +58,7 @@ public class Main {
 
 ## Education
 
-Moscow State Institute of International Relation<br><br>
+Moscow State Institute of International Relations<br><br>
 
 ## Languages
 * English - C1-C2 (CEFR)<br>
