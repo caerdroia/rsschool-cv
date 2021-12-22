@@ -7,15 +7,15 @@ GitHub:&nbsp;[caerdroia](https://github.com/caerdroia) <br><br><br>
 
 
 ## About me <br>
-* *My professional priority for 2022 is to reach sufficient proficiency in Java/JavaScript so that I could start applying for Salesforce Developer trainee positions.* 
-* *Strong points: love challenges, love to solve problems, love to learn, excellent verbal skills, love to explain things, good sense of humor*
-* *I started learning Java in October 2021 as I wanted to become a Salesforce Developer and it's tech stack includes APEX which is JAVA-like. Now I'm learning JavaScript as it is also part of the Salesforce stack. Even a bigger one.* <br><br>
+* My professional priority for 2022 is to reach sufficient proficiency in Java/JavaScript so that I could start applying for Salesforce Developer trainee positions. 
+* Strong points: love challenges, love to solve problems, love to learn, excellent verbal skills, love to explain things, good sense of humor.
+* I started learning Java in October 2021 as I wanted to become a Salesforce Developer and it's tech stack includes APEX which is JAVA-like. Now I'm learning JavaScript as it is also part of the Salesforce stack. Even a bigger one. <br><br>
 
 ## Programming Skills<br>
-* *Java Core*;<br>
-* *OOP principles (SOLID)*;
-* *Basic Data Structures & Algorithms*;
-* *Basic HTML & CSS*;<br><br>
+* Java Core;<br>
+* OOP principles (SOLID);
+* Basic Data Structures & Algorithms;
+* Basic HTML, CSS and Git;<br><br>
 
 ## Code Example<br>
 <pre>import java.util.Scanner;
@@ -58,11 +58,11 @@ public class Main {
 
 ## Education
 
-*Moscow State Institute of International Relation (Major in Law of the EU*)<br><br>
+Moscow State Institute of International Relation<br><br>
 
 ## Languages
-* *English* - C1-C2 (CEFR)<br>
-* *French* - B1
+* English - C1-C2 (CEFR)<br>
+* French - B1
 
 
 
