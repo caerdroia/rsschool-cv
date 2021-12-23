@@ -1,10 +1,10 @@
 [![photo-2021-12-22-11-30-33.jpg](https://i.postimg.cc/nrnW7ngV/photo-2021-12-22-11-30-33.jpg)](https://postimg.cc/G8Sznnb6)
 
 # Denis Voronin <br>
-<strong>E-mail:&nbsp;</strong> denis.voronin@gmail.com <br>
-<strong>Phone:</strong> +7.903.689.26.26 <br>
-<strong>Discord:</strong> Telemakh#0751 <br>
-<strong>GitHub:&nbsp;</strong>[caerdroia](https://github.com/caerdroia) <br><br><br>
+**E-mail:&nbsp;** denis.voronin@gmail.com <br>
+**Phone:** +7.903.689.26.26 <br>
+**strong>Discord:** Telemakh#0751 <br>
+**GitHub:&nbsp;**[caerdroia](https://github.com/caerdroia) <br><br><br>
 
 
 ## About me <br>
@@ -62,8 +62,10 @@ public class Main {
 *Moscow State Institute of International Relation (Major in Law of the EU*)<br><br>
 
 ## Languages
-* *English* - C1-C2 (CEFR)<br>
-* *French* - B1
+* *English* <br>
+![Hnet com-image](https://user-images.githubusercontent.com/92051076/147234611-664b06f3-6054-48b1-bed0-12a48bc8b446.png)
+
+
 
 
 
