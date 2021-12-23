@@ -3,7 +3,7 @@
 # Denis Voronin <br>
 **E-mail:&nbsp;** denis.voronin@gmail.com <br>
 **Phone:** +7.903.689.26.26 <br>
-**strong>Discord:** Telemakh#0751 <br>
+**Discord:** Telemakh#0751 <br>
 **GitHub:&nbsp;**[caerdroia](https://github.com/caerdroia) <br><br><br>
 
 
