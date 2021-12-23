@@ -8,9 +8,9 @@
 
 
 ## About me <br>
-* *My professional priority for 2022 is to reach sufficient proficiency in JavaScript so that I could feel myself rather comfortable using it on commercial projects.* 
-* *Strong points: love challenges, love to solve problems, love to learn.*
-* *I started learning Java in October 2021 as I wanted to become a Salesforce Developer and it's tech stack includes APEX which is JAVA-like. Now I'm learning JavaScript as it is also part of the Salesforce stack. Even the bigger one.* <br><br>
+* My professional priority for 2022 is to reach sufficient proficiency in JavaScript so that I could feel myself rather comfortable using it on commercial projects.
+* Strong points: love challenges and to solve problems, love both - to learn and to teach.
+* Started learning Java in October 2021 as I wanted to become a Salesforce Developer. Tt's tech stack includes APEX which is JAVA-like. Now I'm learning JavaScript as it is also part of the Salesforce stack. Even a bigger one. <br><br>
 
 ## Programming Skills<br>
 * Java Core;<br>
