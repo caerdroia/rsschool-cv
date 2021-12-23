@@ -60,7 +60,7 @@ public class Main {
 
 ## Education
 
-Moscow State Institute of International Relation <br><br>
+Moscow State Institute of International Relations <br><br>
 
 ## Languages
 
