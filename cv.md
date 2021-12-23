@@ -63,7 +63,7 @@ public class Main {
 Moscow State Institute of International Relation <br><br>
 
 ## Languages
-[English](https://www.efset.org/cert/hfZsGb)<br>
+
 ![Hnet com-image](https://user-images.githubusercontent.com/92051076/147234611-664b06f3-6054-48b1-bed0-12a48bc8b446.png)
 
 
