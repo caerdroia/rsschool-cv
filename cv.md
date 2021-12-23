@@ -13,10 +13,11 @@
 * *I started learning Java in October 2021 as I wanted to become a Salesforce Developer and it's tech stack includes APEX which is JAVA-like. Now I'm learning JavaScript as it is also part of the Salesforce stack. Even the bigger one.* <br><br>
 
 ## Programming Skills<br>
-* *Java Core*;<br>
-* *OOP principles (SOLID)*;
-* *Basic Data Structures & Algorithms*;
-* *Basic HTML & CSS*;<br><br>
+* Java Core;<br>
+* Basic C;
+* OOP principles (SOLID);
+* Basic Data Structures & Algorithms;
+* Basic HTML & CSS;<br><br>
 
 ## Code Example<br>
 <pre><code>import java.util.Scanner;
@@ -59,10 +60,10 @@ public class Main {
 
 ## Education
 
-*Moscow State Institute of International Relation (Major in Law of the EU*)<br><br>
+Moscow State Institute of International Relation <br><br>
 
 ## Languages
-* *[English](https://www.efset.org/cert/hfZsGb)* <br>
+[English](https://www.efset.org/cert/hfZsGb)<br>
 ![Hnet com-image](https://user-images.githubusercontent.com/92051076/147234611-664b06f3-6054-48b1-bed0-12a48bc8b446.png)
 
 
