@@ -19,7 +19,7 @@
 * *Basic HTML & CSS*;<br><br>
 
 ## Code Example<br>
-<pre>import java.util.Scanner;
+<pre><code>import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
@@ -55,7 +55,7 @@ public class Main {
         }
     }
 }
-</pre><br>
+</pre></code>
 
 ## Education
 
