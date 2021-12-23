@@ -10,7 +10,7 @@
 ## About me <br>
 * My professional priority for 2022 is to reach a level of Java/JS command that is enough for Salesforce Dev entry positions.
 * Strong points: love challenges and to solve problems, love both - to learn and to teach.
-* Started learning Java in October 2021 as I wanted to become a Salesforce Developer. Tt's tech stack includes APEX which is JAVA-like. Now I'm learning JavaScript as it is also part of the Salesforce stack. Even a bigger one. <br><br>
+* Started learning Java in October 2021 as I wanted to become a Salesforce Dev. It's tech stack includes APEX which is JAVA-like. Now I'm learning JavaScript as it is also part of the Salesforce stack. Even a bigger one. <br><br>
 
 ## Programming Skills<br>
 * Java Core;<br>
