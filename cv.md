@@ -33,7 +33,7 @@ public class Main {
 
             Scanner scanner = new Scanner(System.in);
             System.out.print("Введите число: ");
-            number = scanner.nextInt();
+            number = scanner.nextLong();
 
             if (number < 1) {
 
