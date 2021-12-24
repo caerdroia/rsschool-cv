@@ -1,16 +1,45 @@
 .flex-wrapper {
   display: flex;
-  flex-direction: column;
-  color: #303030;
-
+  flex-direction: row-reverse;
+  color: #202020;
+  height: auto;
+  width: 800px;
+  
+  
+  
 }
-.flex-wrapper > div {
-  background-color: #DBE2E9;
-  height: 300px;
-  width: 300px;
-  margin: 0px;
-  flex-grow: 1;
-  }
+
+.gray {
+  background-color: #d0d0d0;
+  
+}
+
+ul > li {
+  line-height: 2rem;
+}
+
+.main-content {
+flex-grow: 0;
+flex-shrink: 0;
+flex-basis:500px;
+ 
+}
+
+.sidebar {
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: 300px;
+}
+
+.avatar {
+  display: block;
+  width: 200px;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
 
 body {
 
@@ -18,49 +47,42 @@ body {
   "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
-div > p {
-
+h1 {
+  font-size: 1.5rem;
   margin-left: 30px;
-  margin-bottom: 30px;
-}
-
-.avatar {
-  display:block;
-  width: 250px;
-  border-radius: 50%;
-  margin-right: auto;
-  margin-left: auto;
-  margin-top: 20px;
 }
 
 h2 {
-  text-decoration:none;
+  font-size: 1rem;
   margin-left: 30px;
-  font-size: 1.1rem;
-  -weight:600;
-  color: #303030;
+}
+
+.sidebar-p {
+  margin-left: 30px;
+  line-height: 1.5rem;
+}
+.sidebar-line {
+  border-bottom: 1px solid #505050;
+  margin-left: 30px;
+  margin-right: 15px;
+  padding-bottom: 4px;
   
+ 
 }
 
-div > span {
-  margin-left: 30px;
-  line-height: 1.5;
-}
-
-.line {
-  border-bottom: 1px solid #202020;
-  margin-left: 30px;
-  margin-right: 20px;
-  
-}
-
-.experimental {
+.sidebar-image {
   height: 35px;
   float: right;
-  margin-right: 10px;
-  padding-top: 3px;
-  
+  margin-right: 12px;
+  padding-top: 7px;
+ 
+}
 
+.sidebar2-image {
+  height: 18px;
+  float: right;
+  margin-right: 12px;
+  padding-top: 10px;
 }
 
 
