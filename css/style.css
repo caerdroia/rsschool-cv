@@ -1,38 +1,52 @@
+/* Flex properties */
+
 .flex-wrapper {
   display: flex;
   flex-direction: row-reverse;
   color: #202020;
   height: auto;
-  width: 800px;
+  flex-wrap:wrap-reverse;  
+  justify-content: center;
+  margin-top: 20px;
+  }
 
-}
-
-h1 {
+  h1 {
   margin-bottom: 0px;
   padding-bottom: 0px;
+  font-size: 1.5rem;
+  margin-left: 30px;
+}
+
+h2 {
+  font-size: 1rem;
+  margin-left: 30px;
+}
+body {
+   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, 
+  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 ul > li {
   line-height: 2em;
 }
 
-.gray {
-  background-color: #ebecf0;
-  background: linear-gradient(to right, #ebecf0 80%, #ffffff);
-  
-}
 
 .main-content {
-flex-grow: 0;
-flex-shrink: 0;
-flex-basis:500px;
- 
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis:520px;
+  
 }
 
 .sidebar {
   flex-grow: 0;
-  flex-shrink: 0;
-  flex-basis: 300px;
+  flex-shrink: 1;
+  flex-basis: 290px;
+}
+
+.sidebar-background {
+  background-color: #ebecf0;
+  background: radial-gradient(#e0e0e0 20%, #ffffff 85%);
 }
 
 .sidebar-contacts {
@@ -56,56 +70,36 @@ flex-basis:500px;
   line-height: 2rem;
 }
 
-.sidebar-line2 {
-    border-bottom: 1px solid #505050;
-    margin-left: 30px;
-    margin-right: 15px;
-    padding-bottom: 10px;
-    line-height: 2rem;
-  }
-  
- 
-
 
 .sidebar-image {
   height: 35px;
   float: right;
   margin-right: 12px;
   padding-top: 7px;
- 
 }
-.avatar {
-  display: block;
-  width: 200px;
-  border-radius: 50%;
-  margin-left: 25px;
-  margin-right: auto;
-  margin-top: 20px;
-}
-
-
-body {
-
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, 
-  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-}
-
-h1 {
-  font-size: 1.5rem;
-  margin-left: 30px;
-}
-
-h2 {
-  font-size: 1rem;
-  margin-left: 30px;
-}
-
 
 .sidebar2-image {
   height: 18px;
   float: right;
   margin-right: 12px;
   padding-top: 10px;
+}
+
+.main-content-line {
+    border-bottom: 1px solid #505050;
+    margin-left: 30px;
+    margin-right: 15px;
+    padding-bottom: 10px;
+    line-height: 2rem;
+  }
+ 
+.avatar {
+  display: block;
+  width: 238px;
+  border-radius: 50%;
+  margin-left: 25px;
+  margin-right: auto;
+  margin-top: 0px;
 }
 
 .section__code {
@@ -122,15 +116,13 @@ h2 {
   background-color: #f5f5f5;
 }
 
-
-
-.footer-image {
-  width: 70px;
-  
-}
-
 footer > div {
   font-size: large;
   font-weight: 700;
   text-align: right;
+}
+
+.footer-image {
+  width: 70px;
+  
 }
