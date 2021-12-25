@@ -1,2 +1,2 @@
 
-https://github.com/caerdroia/rsschool-cv/blob/rsschool-cv-html
+https://github.com/caerdroia/rsschool-cv/blob/rsschool-cv/
