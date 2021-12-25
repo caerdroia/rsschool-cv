@@ -11,9 +11,10 @@
   }
 
   h1 {
-  margin-bottom: -10px;
-  font-size: 1.em;
-  margin-left: 30px;
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+  margin-bottom: 27px;
+  margin-top: 0;
 }
 
 h2 {
@@ -43,7 +44,7 @@ ul > li {
 }
 
 #h2-main-top-margin {
-  margin-top: -6px;
+  
 }
 
 .nav-style a {
