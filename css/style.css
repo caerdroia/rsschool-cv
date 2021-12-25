@@ -43,9 +43,19 @@ ul > li {
 }
 
 #h2-main-top-margin {
-
   margin-top: -6px;
+}
 
+.nav-style a {
+  
+  text-decoration: none;
+  position:relative;
+  left: 28%;
+ }
+ 
+.nav-style a:hover {
+ color: rgb(18, 105, 219);
+ background-color:white;
 }
 
 .sidebar {

@@ -11,7 +11,7 @@
   <body>
     <main class="flex-wrapper">
       <section class="main-content">
-        <h1 class="main-content-line">DENIS VORONIN</h1>
+        <h1 id="about-me" class="main-content-line">DENIS VORONIN</h1>
         <ul>
           <li id="li-margin-bottom">
             My professional priority for 2022 is to know JS/Java/HTML/CSS well enough
@@ -27,7 +27,7 @@
         </ul>
         <br />
         <div>
-          <h2 id="h2-main-top-margin" class="sidebar-line" >CODE EXAMPLE</h2>
+          <h2 id="my-code" id="h2-main-top-margin" class="sidebar-line" >CODE EXAMPLE</h2>
           <pre class="code-format"><code>
     public class Main {
         public static void main(String[] args) {
@@ -63,7 +63,7 @@
         </div>
         
         <div>
-          <h2 class="sidebar-line">MY PROJECTS</h2>
+          <h2 id="my-projects" class="sidebar-line">MY PROJECTS</h2>
           <ul>
           <li><a target="_blank"  href="https://github.com/caerdroia/rsschool-cv/tree/main">This exact CV</a></li>
           </ul>
@@ -79,6 +79,11 @@
       </section>
 
       <aside class="sidebar sidebar-background">
+        <nav class="nav-style">
+        <a href="#about-me">Me</a>
+        <a href="#my-code">Code</a>
+        <a href="#my-projects">Projects</a>
+        </nav>
         <img class="avatar" src="images/cv-photo.jpg" alt="photo of a man" />
         <br />
         <br />
