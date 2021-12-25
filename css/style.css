@@ -51,6 +51,7 @@ ul > li {
   text-decoration: none;
   position:relative;
   left: 28%;
+  scroll-behavior: smooth;
  }
  
 .nav-style a:hover {
