@@ -11,9 +11,10 @@
   }
 
   h1 {
-  margin-bottom: -10px;
-  font-size: 1.em;
-  margin-left: 30px;
+  margin-bottom: 20px;
+  font-size: 1.8rem;
+  margin-bottom: 27px;
+  margin-top: 0;
 }
 
 h2 {
@@ -35,15 +36,16 @@ ul > li {
   flex-grow: 0;
   flex-shrink: 1;
   flex-basis:520px;
-  
-}
+  }
+
+  #my-code {
+    font-style: oblique;
+    font-weight: 100;
+    color: #404040;
+  }
 
 #li-margin-bottom {
   margin-bottom: 1.5rem;
-}
-
-#h2-main-top-margin {
-  margin-top: -6px;
 }
 
 .nav-style a {
@@ -51,6 +53,7 @@ ul > li {
   text-decoration: none;
   position:relative;
   left: 28%;
+  scroll-behavior: smooth;
  }
  
 .nav-style a:hover {
