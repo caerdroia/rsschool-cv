@@ -12,7 +12,7 @@
 
   h1 {
   margin-bottom: -10px;
-  font-size: 1.3em;
+  font-size: 1.em;
   margin-left: 30px;
 }
 
@@ -44,7 +44,7 @@ ul > li {
 
 #h2-main-top-margin {
 
-  margin-top: 0px;
+  margin-top: -6px;
 
 }
 
@@ -131,9 +131,16 @@ footer > div {
   font-size: large;
   font-weight: 700;
   text-align: right;
+  
 }
+
+
 
 .footer-image {
   width: 70px;
-  
-}
+ }
+
+ #footer-line {
+   border-right: 3px solid;
+   padding-right: 15px;
+ }
