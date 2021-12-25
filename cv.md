@@ -8,6 +8,7 @@
 
 
 ## About me <br>
+
 * My professional priority for 2022 is to reach a level of Java/JS command that is enough for Salesforce Dev entry positions.
 * Strong points: love challenges and to solve problems, love both - to learn and to teach.
 * Started learning Java in October 2021 as I wanted to become a Salesforce Dev. It's tech stack includes APEX which is JAVA-like. Now I'm learning JavaScript as it is also part of the Salesforce stack. Even a bigger one. <br><br>
@@ -20,10 +21,13 @@
 * Basic HTML & CSS;<br><br>
 
 ## Code Example<br>
-<pre><code>import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+<pre><code>
+
+     import java.util.Scanner;
+
+     public class Main {
+     public static void main(String[] args) {
 
 // Определение минимального делителя для целого положительного числа
 
@@ -35,7 +39,7 @@ public class Main {
 
             Scanner scanner = new Scanner(System.in);
             System.out.print("Введите число: ");
-            number = scanner.nextInt();
+            number = scanner.nextLong();
 
             if (number < 1) {
 
@@ -56,7 +60,7 @@ public class Main {
         }
     }
 }
-</pre></code>
+</code></pre>
 
 ## Education
 
@@ -66,6 +70,17 @@ Moscow State Institute of International Relations <br><br>
 
 ![Hnet com-image](https://user-images.githubusercontent.com/92051076/147234611-664b06f3-6054-48b1-bed0-12a48bc8b446.png)
 
+
+=======
+                              </code></pre><br>
+
+## Education
+
+Moscow State Institute of International Relations<br><br>
+
+## Languages
+* English - C2 (CEFR)<br>
+* French  - B1
 
 
 
