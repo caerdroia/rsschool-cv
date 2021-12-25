@@ -36,15 +36,16 @@ ul > li {
   flex-grow: 0;
   flex-shrink: 1;
   flex-basis:520px;
-  
-}
+  }
+
+  #my-code {
+    font-style: oblique;
+    font-weight: 100;
+    color: #404040;
+  }
 
 #li-margin-bottom {
   margin-bottom: 1.5rem;
-}
-
-#h2-main-top-margin {
-  
 }
 
 .nav-style a {
