@@ -95,11 +95,12 @@ ul > li {
  
 .avatar {
   display: block;
-  width: 238px;
+  width: 250px;
   border-radius: 50%;
   margin-left: 25px;
   margin-right: auto;
   margin-top: 0px;
+  padding-top: 15px;
 }
 
 .section__code {
