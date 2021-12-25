@@ -2,24 +2,27 @@
 
 # Denis Voronin <br>
 **E-mail:&nbsp;** denis.voronin@gmail.com <br>
-**Phone:** +7.123.456.78.90 <br>
+**Phone:** +7.903.689.26.26 <br>
+**Discord:** Telemakh#0751 <br>
 **GitHub:&nbsp;**[caerdroia](https://github.com/caerdroia) <br><br><br>
 
 
 ## About me <br>
-* My professional priority for 2022 is to reach sufficient proficiency in Java/JavaScript so that I could start applying for Salesforce Developer trainee positions. 
-* Strong points: love challenges, love to solve problems, love to learn, excellent verbal skills, love to explain things, good sense of humor.
-* I started learning Java in October 2021 as I wanted to become a Salesforce Developer and it's tech stack includes APEX which is JAVA-like. Now I'm learning JavaScript as it is also part of the Salesforce stack. Even a bigger one. <br><br>
+
+* My professional priority for 2022 is to reach a level of Java/JS command that is enough for Salesforce Dev entry positions.
+* Strong points: love challenges and to solve problems, love both - to learn and to teach.
+* Started learning Java in October 2021 as I wanted to become a Salesforce Dev. It's tech stack includes APEX which is JAVA-like. Now I'm learning JavaScript as it is also part of the Salesforce stack. Even a bigger one. <br><br>
 
 ## Programming Skills<br>
 * Java Core;<br>
+* Basic C;
 * OOP principles (SOLID);
 * Basic Data Structures & Algorithms;
-* Basic HTML, CSS and Git;<br><br>
+* Basic HTML & CSS;<br><br>
 
 ## Code Example<br>
 
-   <pre><code>
+<pre><code>
 
      import java.util.Scanner;
 
@@ -57,6 +60,18 @@
         }
     }
 }
+</code></pre>
+
+## Education
+
+Moscow State Institute of International Relations <br><br>
+
+## Languages
+
+![Hnet com-image](https://user-images.githubusercontent.com/92051076/147234611-664b06f3-6054-48b1-bed0-12a48bc8b446.png)
+
+
+=======
                               </code></pre><br>
 
 ## Education
@@ -64,8 +79,9 @@
 Moscow State Institute of International Relations<br><br>
 
 ## Languages
-* English - C1-C2 (CEFR)<br>
-* French - B1
+* English - C2 (CEFR)<br>
+* French  - B1
+
 
 
 
