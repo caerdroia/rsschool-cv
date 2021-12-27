@@ -1,13 +1,19 @@
+html {
+  height: 100px;
+  background-image: url("/rsschool-cv/images/binary-2.jpg");
+  background-color: rgba(255,255,255,0.85);
+  background-blend-mode: lighten;
+  }
+
 /* Flex properties */
 
 .flex-wrapper {
   display: flex;
   flex-direction: row-reverse;
   color: #202020;
-  height: auto;
   flex-wrap:wrap-reverse;  
   justify-content: center;
-  margin-top: 20px;
+  margin-top: 0px;
   }
 
   h1 {
@@ -65,17 +71,22 @@ ul li {
 .nav-style a:hover {
  color: rgb(18, 105, 219);
  background-color:white;
- 
+ align-self:stretch ;
 }
 
 .sidebar {
-  flex: 0 0 271px;
+  flex: 0 0 285px;
 }
 
 .sidebar-background {
 background-color: #ebecf0;
- background: radial-gradient(#e0e0e0 20%, #ffffff 85%);
+background: linear-gradient(to bottom, #ebecf0, #ffffff);
 }
+
+.main-background {
+  background-color: #ffffff;
+  
+  }
 
 .sidebar-contacts {
   line-height: 2rem;
@@ -160,4 +171,8 @@ footer > div {
    border-right: 3px solid;
    padding-right: 15px;
    color: black;
+ }
+
+ .experimental {
+   background-image: url(/rsschool-cv/images/binary.svg);
  }
