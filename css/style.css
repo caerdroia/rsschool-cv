@@ -69,9 +69,8 @@ ul li {
  }
  
 .nav-style a:hover {
- color: rgb(18, 105, 219);
- background-color:white;
-
+ color: white;
+ background-color:rgb(52, 39, 238);
  align-self:stretch ;
 }
 
