@@ -15,6 +15,11 @@
   font-size: 1.8rem;
   margin-bottom: 27px;
   margin-top: 0;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+h1 span {
+  font-size: 1.4rem;
 }
 
 h2 {
@@ -26,17 +31,16 @@ body {
   "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
-ul > li {
+ul li {
   line-height: 2em;
 }
 
 
 
 .main-content {
-  flex-grow: 0;
-  flex-shrink: 1;
-  flex-basis:520px;
-  }
+  flex: 0 1 460px
+ 
+}
 
   #my-code {
     font-style: oblique;
@@ -62,9 +66,7 @@ ul > li {
 }
 
 .sidebar {
-  flex-grow: 0;
-  flex-shrink: 1;
-  flex-basis: 290px;
+  flex: 0 1 content;
 }
 
 .sidebar-background {
@@ -120,9 +122,7 @@ ul > li {
   display: block;
   width: 250px;
   border-radius: 50%;
-  margin-left: 25px;
-  margin-right: auto;
-  margin-top: 0px;
+  margin: auto;
   padding-top: 15px;
 }
 
