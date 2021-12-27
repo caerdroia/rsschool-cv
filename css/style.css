@@ -71,16 +71,20 @@ ul li {
 .nav-style a:hover {
  color: rgb(18, 105, 219);
  background-color:white;
+
  align-self:stretch ;
 }
 
 .sidebar {
   flex: 0 0 285px;
+
 }
 
 .sidebar-background {
 background-color: #ebecf0;
+
 background: linear-gradient(to bottom, #ebecf0, #ffffff);
+
 }
 
 .main-background {
@@ -161,10 +165,12 @@ footer > div {
 .footer-image {
   width: 70px;
   
+
  }
  .footer-image:hover {
    transform: scale(1.2, 1.2);
  }
+
 
 
  #footer-line {
