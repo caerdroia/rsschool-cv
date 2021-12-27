@@ -11,9 +11,8 @@
   }
 
   h1 {
-  margin-bottom: 20px;
   font-size: 1.8rem;
-  margin-bottom: 27px;
+  margin-bottom: 24px;
   margin-top: 0;
   font-family:Arial, Helvetica, sans-serif;
 }
@@ -26,6 +25,11 @@ h2 {
   font-size: 1rem;
   margin-left: 30px;
 }
+
+h2:hover {
+  transform: scale(1.1, 1.1);
+}
+
 body {
    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, 
   "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -34,8 +38,6 @@ body {
 ul li {
   line-height: 2em;
 }
-
-
 
 .main-content {
   flex: 0 1 460px
@@ -63,24 +65,20 @@ ul li {
 .nav-style a:hover {
  color: rgb(18, 105, 219);
  background-color:white;
+ 
 }
 
 .sidebar {
-  flex: 0 1 content;
+  flex: 0 0 271px;
 }
 
 .sidebar-background {
-  background-color: #ebecf0;
+background-color: #ebecf0;
  background: radial-gradient(#e0e0e0 20%, #ffffff 85%);
 }
 
 .sidebar-contacts {
   line-height: 2rem;
-}
-
-.sidebar-contacts2 {
-  line-height: 1.2rem;
-  font-size: 15px;
 }
 
 .sidebar-p {
@@ -151,7 +149,12 @@ footer > div {
 
 .footer-image {
   width: 70px;
+  
  }
+ .footer-image:hover {
+   transform: scale(1.2, 1.2);
+ }
+
 
  #footer-line {
    border-right: 3px solid;
