@@ -20,11 +20,12 @@ html {
   font-size: 1.8rem;
   margin-bottom: 24px;
   margin-top: 0;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family:'Times New Roman', Times, serif
 }
 
 h1 span {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
+  
 }
 
 h2 {
@@ -80,9 +81,7 @@ ul li {
 }
 
 .sidebar-background {
-background-color: #ebecf0;
-
-background: linear-gradient(to bottom, #ebecf0, #ffffff);
+background: linear-gradient(to bottom, #e8eff0, #ffffff);
 
 }
 
