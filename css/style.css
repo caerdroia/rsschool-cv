@@ -20,11 +20,12 @@ html {
   font-size: 1.8rem;
   margin-bottom: 24px;
   margin-top: 0;
-  font-family:Arial, Helvetica, sans-serif;
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 h1 span {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
+  
 }
 
 h2 {
@@ -49,14 +50,19 @@ ul li {
   flex: 0 1 460px;
   }
 
+#h2-main-top-margin {
+
+  margin-top: -11px;
+}
   #my-code {
     font-style: oblique;
     font-weight: 100;
     color: #404040;
+    ;
   }
 
 #li-margin-bottom {
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 .nav-style a {
@@ -68,9 +74,8 @@ ul li {
  }
  
 .nav-style a:hover {
- color: rgb(18, 105, 219);
- background-color:white;
-
+ color: white;
+ background-color:rgb(52, 39, 238);
  align-self:stretch ;
 }
 
@@ -84,9 +89,7 @@ ul li {
 }
 
 .sidebar-background {
-background-color: #ebecf0;
-
-background: linear-gradient(to bottom, #ebecf0, #ffffff);
+background: linear-gradient(to bottom, #e8eff0, #ffffff);
 
 }
 
@@ -160,6 +163,7 @@ footer > div {
   font-size: large;
   font-weight: 700;
   text-align: right;
+  margin-right:10px;
   
 }
 
