@@ -47,13 +47,12 @@ ul li {
 }
 
 .main-content {
-  flex: 0 1 460px
- 
-}
+  flex: 0 1 460px;
+  }
 
 #h2-main-top-margin {
 
-  margin-top: -11px;
+  margin-top: 20px;
 }
   #my-code {
     font-style: oblique;
@@ -83,6 +82,10 @@ ul li {
 .sidebar {
   flex: 0 0 285px;
 
+}
+
+#CV-sidebar {
+  display: none;
 }
 
 .sidebar-background {
