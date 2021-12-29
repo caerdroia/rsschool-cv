@@ -47,22 +47,23 @@ ul li {
 }
 
 .main-content {
-  flex: 0 1 570px;
+  flex: 0 1 0px;
   }
 
 #h2-main-top-margin {
 
-  margin-top: 20px;
+  margin-top: -20px;
 }
   #my-code {
     font-style: oblique;
     font-weight: 100;
     color: #404040;
+    margin-top: 
     ;
   }
 
 #li-margin-bottom {
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 
 .nav-style a {
