@@ -81,9 +81,11 @@ ul li {
  }
 
 .sidebar {
-  flex: 0 0 285px;
+  flex: 0 0.5 285px;
 
 }
+
+
 
 #CV-sidebar {
   display: none;
@@ -193,5 +195,11 @@ footer > div {
 
  #shadow-2 {
   box-shadow: -5px 10px 5px 0px #aaaaaa;
+ }
+
+ #margin-right {
+
+  margin-right: 10px;
+
  }
 
