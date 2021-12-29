@@ -11,7 +11,6 @@ html {
   display: flex;
   flex-direction: row-reverse;
   color: #202020;
-  flex-wrap:wrap-reverse;  
   justify-content: center;
   margin-top: 0px;
   }
@@ -44,10 +43,11 @@ body {
 
 ul li {
   line-height: 2em;
+  margin: auto;
 }
 
 .main-content {
-  flex: 0 1 0px;
+  flex: 0 1 550px;
   }
 
 #h2-main-top-margin {
@@ -71,14 +71,14 @@ ul li {
   text-decoration: none;
   position:relative;
   left: 28%;
-  scroll-behavior: smooth;
- }
+  }
  
 .nav-style a:hover {
- color: white;
- background-color:rgb(52, 39, 238);
+ color: rgb(37, 18, 143);
  align-self:stretch ;
-}
+ font-weight: 700;
+ font-style: oblique;
+ }
 
 .sidebar {
   flex: 0 0 285px;
